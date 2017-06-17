@@ -41,3 +41,16 @@ PhpMyAdmin的常规的配置文件，可以参考其官网文档。
 	            'yanglihui' => 18888888888,
 	            'someone'   => 18666666666,
 	    );
+
+修改详情
+----
+
+ - 阿里大鱼的PHP SDK存放在 /libraries/plugins/alidayu 针对PhpMyAdmin
+ - 主要修改的文件包括：
+	 - /libraries/plugins/auth/AuthenticationCookie.php
+	 - /js/functions.js
+
+最后
+--
+
+第一次分享程序，好紧张╮(╯_╰)╭
