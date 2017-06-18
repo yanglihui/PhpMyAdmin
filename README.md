@@ -8,6 +8,7 @@
  3. 通过简单的修改配置文件，实现短信验证，目前支持的验证码平台是阿里大鱼；
  4. 短信验证通过后，登录环境会被记录，在接下来一段时间不再需要验证。
  
+ ![登录界面截图](https://raw.githubusercontent.com/yanglihui/PhpMyAdmin/master/screenshots/login.png)
  
  keywords：数据库管理,PhpMyAdmin,短信验证码,安全性
  
